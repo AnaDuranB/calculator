@@ -1,7 +1,8 @@
 # **Calculator 🧮**
 
 This is a simple web page that features a calculator built using HTML, CSS, and JavaScript. The calculator allows users to perform basic arithmetic operations such as addition, subtraction, multiplication, and division.
-You can use it by clicking this link! [page](https://anndr0.github.io/calculator/)
+You can use it by clicking this link! 
+[Calculator](https://anndr0.github.io/calculator/)
 
 ## **Features 🧶**
 
