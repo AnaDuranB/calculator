@@ -38,7 +38,7 @@ To run the calculator page locally, simply clone this repository to your local m
 
 ```bash
 
-git clone https://github.com/your-username/calculator-page.git
+git clone https://github.com/anndr0/calculator.git
 
 ```
 
