@@ -8,6 +8,14 @@ This is a simple web page that features a calculator built using HTML, CSS, and 
 - Responsive design: The page is designed to be responsive and adapt to different screen sizes, making it suitable for use on various devices including desktops, tablets, and smartphones.
 - Keyboard support: Users can also input numbers and operations using their keyboard, including support for the enter key to calculate results.
 
+## **Responsive**
+
+For smartphones
+
+For desktops
+
+![600px.png](600px.png)
+
 ## **Usage 📝**
 
 To use the calculator, simply click on the buttons corresponding to the numbers and operations you want to perform. The input will be displayed in the calculator's display area, and you can click on the "=" button or press the enter key to calculate the result.
