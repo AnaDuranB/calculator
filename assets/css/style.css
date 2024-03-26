@@ -1,6 +1,6 @@
 @font-face {
     font-family: 'NimbusSanL-Regm';
-    src: url('NimbusSanL-Reg.woff') format('woff');
+    src: url('../fonts/NimbusSanL-Reg.woff') format('woff');
 }
 
 * {

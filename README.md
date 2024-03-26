@@ -41,7 +41,6 @@ To run the calculator page locally, simply clone this repository to your local m
 git clone https://github.com/anndr0/calculator.git
 
 ```
-
 ## **Author ✍️**
 
 Ana Duran ♡
