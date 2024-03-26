@@ -12,7 +12,11 @@ This is a simple web page that features a calculator built using HTML, CSS, and 
 
 For smartphones!
 
-![600px.png](600px.png)
+
+<p align="center">
+  <img src="600px.png" alt="Descripción de la imagen" width="300">
+</p>
+
 
 For desktops!
 
