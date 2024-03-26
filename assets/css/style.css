@@ -57,7 +57,7 @@
         text-align: right;
         flex: 1;
         padding-right: 10px;
-        font-size: 35px;
+        font-size: 28px;
         text-shadow: 2px 2px 4px #5d0f8e80;
         background: #e8cbff30;
     }
@@ -69,6 +69,7 @@
     form input.operator{
         color: #e8cbff;
         text-shadow: 2px 2px 4px #5d0f8e80;
+        text-align: center;
     }
 }
 @media only screen and (min-width: 1025px) { /*computadoras*/
