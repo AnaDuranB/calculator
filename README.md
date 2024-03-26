@@ -19,7 +19,7 @@ For smartphones!
 For desktops!
 
 <p align="center">
-  <img src="1025px.png" alt="1025px.png desktops" width="500">
+  <img src="1025px.png" alt="1025px.png desktops" width="800">
 </p>
 
 ## **Usage 📝**
