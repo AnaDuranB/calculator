@@ -10,11 +10,11 @@ This is a simple web page that features a calculator built using HTML, CSS, and 
 
 ## **Responsive**
 
-For smartphones
-
-For desktops
-
+For smartphones!
 ![600px.png](600px.png)
+
+For desktops!
+![1025px.png](1025px.png)
 
 ## **Usage 📝**
 
