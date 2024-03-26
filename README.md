@@ -15,13 +15,13 @@ You can use it by clicking this link!
 For smartphones!
 
 <p align="center">
-  <img src="600px.png" alt="600px smartphones" width="300">
+  <img src="assets/images/600px.png" alt="600px smartphones" width="300">
 </p>
 
 For desktops!
 
 <p align="center">
-  <img src="1025px.png" alt="1025px.png desktops" width="800">
+  <img src="assets/images/1025px.png" alt="1025px.png desktops" width="800">
 </p>
 
 ## **Usage 📝**
